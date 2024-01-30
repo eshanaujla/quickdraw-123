@@ -1,0 +1,9 @@
+canvas{
+    margin-top: 70px;
+    margin-right:255px;
+    border-radius: 10px;
+}
+
+#drawn_sketch{
+    text-decoration: underline;
+}
